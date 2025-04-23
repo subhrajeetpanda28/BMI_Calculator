@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Colorful BMI Calculator</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="container">
+    <h1><u>BMI Calculator</u></h1>
+    <p class="description">Know your health status in seconds!</p>
+    <form id="bmiForm">
+      <div class="input-group">
+        <label for="height">Height (cm)</label>
+        <input type="number" id="height" placeholder="Enter your height" required>
+      </div>
+      <div class="input-group">
+        <label for="weight">Weight (kg)</label>
+        <input type="number" id="weight" placeholder="Enter your weight" required>
+      </div>
+      <button type="submit">Calculate</button>
+    </form>
+    <div id="result" class="result-box">
+      Enter your height and weight to calculate your BMI.
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
