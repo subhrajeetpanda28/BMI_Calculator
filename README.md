@@ -6,7 +6,8 @@ A colorful and responsive Body Mass Index (BMI) Calculator built with HTML, CSS,
 
 ## 📸 Demo
 
-![BMI Calculator Demo](demo.gif) <!-- Replace with your demo gif or screenshot -->
+![BMI Calculator Demo](![BMI_Calculator](https://github.com/user-attachments/assets/0493af6d-8846-4c26-a708-2a2c6be077b5)
+) <!-- Replace with your demo gif or screenshot -->
 
 ---
 
